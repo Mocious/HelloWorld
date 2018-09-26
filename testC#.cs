@@ -15,6 +15,7 @@ namespace ConsoleHelloWorld
             Console.Write("Hello,");
             Console.Write("I wanna do this test.");
             Console.ReadKey();
+            Console.Write("Edit again！")；
         }
     }
 }

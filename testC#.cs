@@ -4,6 +4,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+//这是一个测试 C Sharp 的程序
+
 namespace ConsoleHelloWorld
 {
     class Program
